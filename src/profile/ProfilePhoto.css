@@ -1,0 +1,6 @@
+.picture{
+    width: 850px;
+    height: 850px;
+    padding: 30px;
+    display: flex;
+}

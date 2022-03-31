@@ -1,0 +1,7 @@
+.name{
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    font-size: large;
+}
